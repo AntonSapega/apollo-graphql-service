@@ -1,0 +1,24 @@
+{
+  "name": "apollo-graphql-service",
+  "version": "1.0.0",
+  "description": "Microservices wrapper on apollo-graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonSapega/apollo-graphql-service.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo-graphql",
+    "nodejs"
+  ],
+  "author": "Anton Sapeha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonSapega/apollo-graphql-service/issues"
+  },
+  "homepage": "https://github.com/AntonSapega/apollo-graphql-service#readme"
+}
